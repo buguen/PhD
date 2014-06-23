@@ -4,8 +4,8 @@ PhD Position Available
 [IETR](http://www.ietr.fr) ([Rennes](https://www.youtube.com/watch?v=h9WpNj3AbE0) - France) 
 --------------------------------------------------------------------------------------------
 
-Padio Channels Mobility and Relaying, Sensing and Localization
-==============================================================
+5G Radio Channels : Mobility and Relaying, Sensing and Localization
+===================================================================
 
 **Context** : The 5G is on rails. The purpose is to accompany the on-going "data tsunami", caused by the increasing rates of the digital mobility and at the same time to provide an appropriate infrastructure for interconnecting objects (IoT) and machines (M2M). This last aspect is new compared to previous generations and is expecting to enable smart grid and smart cities. Those issues are closely related to the energy efficiency of networks. This point is key for future network optimization where energy and information will be organized gradually as coupled flows. In this context, the function of sensing and/or locating terminals is key to anticipating and sequencing actions required to self organizing networks (SON).
 
@@ -23,6 +23,6 @@ Tel +33 2 23 23 60 33
 Twitter@BernardUguen
 
 
-[METIS Project Channel Model DEliverable D1.2](https://www.metis2020.com/wp-content/uploads/deliverables/METIS_D1.2_v1.pdf)
+[METIS Project D1.2 Initial channel models based on measurements](https://www.metis2020.com/wp-content/uploads/deliverables/METIS_D1.2_v1.pdf)
 
 
