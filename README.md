@@ -1,5 +1,5 @@
-PhD Position Available 
-======================
+PhD Position Available at [IETR](http://www.ietr.fr) ([Rennes](https://www.youtube.com/watch?v=h9WpNj3AbE0) - France) 
+=====================================================================================================================
 
 Padio Channels Mobility and Relaying, Sensing and Localization
 
