@@ -18,9 +18,11 @@ PhD Position Available
 **How to apply**:
 Send by email: CV, academic achievement, referee letters, motivation letter, TOEIC score or equivalent. 
 
-**Contact**: bernard.uguen@univ-rennes1.fr 
-Tel +33 2 23 23 60 33
-Twitter@BernardUguen
+**Contact**: 
+
++ bernard.uguen@univ-rennes1.fr 
++ Tel +33 2 23 23 60 33
++ Twitter@BernardUguen
 
 
 [METIS Project D1.2 Initial channel models based on measurements](https://www.metis2020.com/wp-content/uploads/deliverables/METIS_D1.2_v1.pdf)
